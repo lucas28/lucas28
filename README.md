@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de Engenharia de Software, conclusão prevista para DEZ/2023<br>Com foco principalmente no desenvolvimento de novas habilidades.<br>Buscando experiência no mercado de tecnologia.
+Sou estudante de Engenharia de Software, conclusão prevista para Abril/2024<br>Com foco principalmente no desenvolvimento de novas habilidades.<br>Buscando experiência no mercado de tecnologia.
 
 
 ## 🌐 Socials:
