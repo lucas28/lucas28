@@ -1,5 +1,9 @@
 # 💫 About Me:
+Analista de Dados com foco em Business Intelligence, Compliance e Inteligência Artificial aplicada, atuando na resolução de problemas complexos com dados, Power BI, Excel, Python e engenharia de software.
+Atuo em projetos de treinamento de IA, resolvendo issues reais e revisando pull requests com treinamento A/B de modelos no Amazon SageMaker.
+Tenho experiência em programação, sou graduado em Engenharia de Software e pós-graduando em Inteligência Artificial e Business Intelligence.
 
+Github de estudos
 
 
 ## 🌐 Socials:
